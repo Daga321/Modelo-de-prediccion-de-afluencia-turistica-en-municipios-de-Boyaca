@@ -81,7 +81,6 @@ cython_debug/
 .vscode/
 
 # Data files
-*.csv
 *.tsv
 *.xls
 *.xlsx
